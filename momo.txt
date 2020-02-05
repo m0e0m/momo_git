@@ -1,2 +1,5 @@
 gitの練習momo
 基本的な練習
+2020/02/05
+. git add
+. git commit
